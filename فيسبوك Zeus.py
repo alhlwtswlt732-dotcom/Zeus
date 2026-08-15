@@ -1,4 +1,4 @@
-import os, sys, platform, time, random, uuid, json, string, base64, re, hashlib, threading, tempfile, zipfile, requests
+ههههimport os, sys, platform, time, random, uuid, json, string, base64, re, hashlib, threading, tempfile, zipfile, requests
 from os import system
 from io import BytesIO
 from time import localtime as lt
